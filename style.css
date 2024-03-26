@@ -1,6 +1,9 @@
 @charset "UTF-8";
 body
 {
+    text-align: center;
+    background: rgb(230,240,104);
+background: linear-gradient(55deg, rgba(230,240,104,1) 15%, rgba(85,175,78,1) 50%, rgba(71,69,198,1) 85%);
     background-color: rgb(255, 243, 69);
     color: rgb(0, 0, 0);
     font-size: 12pts;
@@ -10,5 +13,24 @@ body
 h1
 
 {
-    color: rgb(0, 131, 0);
+    text-decoration: underline;
+    font-family: Arial;
+    font-size: 30pt;
+    color: rgb(0, 0, 0);
 }
+
+h2
+
+{
+    font-size: 20pt;
+    color: black;
+    font-family: Arial;
+}
+
+ a
+
+ {
+    color: blue;
+    text-decoration: none;
+
+ }
