@@ -11,20 +11,24 @@ background: linear-gradient(55deg, rgba(230,240,104,1) 15%, rgba(85,175,78,1) 50
 }
 
 h1
-
 {
-    text-decoration: underline;
-    font-family: Arial;
-    font-size: 30pt;
-    color: rgb(0, 0, 0);
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: underline;
+  font-size: 30pt;
 }
+
 
 h2
 
 {
-    font-size: 20pt;
-    color: black;
-    font-family: Arial;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size
 }
 
  a
