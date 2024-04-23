@@ -2,12 +2,23 @@
 body
 {
     text-align: center;
-    background: rgb(230,240,104);
-background: linear-gradient(55deg, rgba(230,240,104,1) 15%, rgba(85,175,78,1) 50%, rgba(71,69,198,1) 85%);
-    background-color: rgb(255, 243, 69);
+    background: rgb(170,255,156);
+    background: linear-gradient(90deg, rgba(170,255,156,1) 0%, rgba(253,255,149,1) 100%);
     color: rgb(0, 0, 0);
     font-size: 12pts;
     font-family: Arial;
+}
+
+.bemtevi
+{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(238,255,127,1) 31%, rgba(69,55,22,1) 96%);
+}
+
+.araponga
+{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(82,181,255,1) 100%);
 }
 
 h1
@@ -42,6 +53,12 @@ a
 
 {
     color: red;
+    font-size: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.par
+{
+    color: blue;
     font-size: 16pt;
     font-family: Arial, Helvetica, sans-serif;
 }
